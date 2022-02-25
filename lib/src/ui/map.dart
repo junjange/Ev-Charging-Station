@@ -19,7 +19,6 @@ import 'dart:ui' as ui;
 3. 전기차 충전소를 눌렀을 때 전기차 충전소에 대한 정보 제공
 4. 길안내
 5. 자주 가는 전기차 충전소 저장 기능
-참고 : https://github.com/jiyeoon/hikingmobileapp/blob/master/hiking_front/lib/mappage.dart
 6. 초기 지도 위치 값 변경 불가능.. 가능할까?
 */
 
