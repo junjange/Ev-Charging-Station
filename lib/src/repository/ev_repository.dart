@@ -5,9 +5,9 @@ import 'package:xml2json/xml2json.dart';
 
 class EvRepository {
   var apiKey =
-      "Pbf3CrVpW1Tu8fCFGfn7kmJZ%2FelaNXNA8wbegwrgXMtpboJYYQGP3Fl0DuodrxfWXmlUsuhHJ4G%2BPrPdnRG9CA%3D%3D";
+      "apiKey";
 
-  var gpsApiKey = "AIzaSyCWRscqA3Bp4U1DzY5xWhJh7751ILDaYOE";
+  var gpsApiKey = "gpsApiKey";
 
   Future<List<Ev>?> loadEvs(x, y) async {
     // 현재 좌표로 주소 구하기
